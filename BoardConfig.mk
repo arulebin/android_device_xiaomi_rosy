@@ -164,6 +164,9 @@ TARGET_USES_INTERACTION_BOOST := true
 # Qualcomm
 BOARD_USES_QCOM_HARDWARE := true
 
+# RIL
+ENABLE_VENDOR_RIL_SERVICE := true
+
 # Recovery
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/fstab.qcom
 
