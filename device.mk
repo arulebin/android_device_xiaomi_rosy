@@ -308,6 +308,7 @@ PRODUCT_PACKAGES += \
     init.qcom.rc \
     init.qcom.usb.rc \
     init.target.rc \
+    init.rosy.rc \
     ueventd.qcom.rc
 
 PRODUCT_PACKAGES += \
